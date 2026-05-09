@@ -234,7 +234,7 @@ export default function ScrollIntro() {
                 {quote.ar}
               </h3>
               <p className="text-[0.85rem] md:text-[1rem] text-[#c9a96e] italic mb-4 font-light px-2">
-                "{quote.id}"
+                &quot;{quote.id}&quot;
               </p>
               <p className="text-sm text-white/60 tracking-wider">
                 {quote.src}
